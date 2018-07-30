@@ -1,6 +1,0 @@
-echo "# Discord_Wallpapers" >> README.md
-git init
-git add UltraWinter.jpg
-git commit -m "..."
-git remote add origin https://github.com/EnderHackYT/Discord_Wallpapers.git
-git push -u origin master
